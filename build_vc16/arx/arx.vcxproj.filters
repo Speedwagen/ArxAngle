@@ -1,0 +1,1889 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\ai\Anchors.cpp">
+      <Filter>src\ai</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\ai\PathFinder.cpp">
+      <Filter>src\ai</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\ai\PathFinderManager.cpp">
+      <Filter>src\ai</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\ai\Paths.cpp">
+      <Filter>src\ai</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\animation\Animation.cpp">
+      <Filter>src\animation</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\animation\AnimationRender.cpp">
+      <Filter>src\animation</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\animation\Skeleton.cpp">
+      <Filter>src\animation</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\cinematic\Cinematic.cpp">
+      <Filter>src\cinematic</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\cinematic\CinematicController.cpp">
+      <Filter>src\cinematic</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\cinematic\CinematicKeyframer.cpp">
+      <Filter>src\cinematic</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\cinematic\CinematicLoad.cpp">
+      <Filter>src\cinematic</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\cinematic\CinematicTexture.cpp">
+      <Filter>src\cinematic</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\cinematic\CinematicEffects.cpp">
+      <Filter>src\cinematic</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\cinematic\CinematicSound.cpp">
+      <Filter>src\cinematic</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\audio\Ambiance.cpp">
+      <Filter>src\audio</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\audio\Audio.cpp">
+      <Filter>src\audio</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\audio\AudioEnvironment.cpp">
+      <Filter>src\audio</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\audio\AudioGlobal.cpp">
+      <Filter>src\audio</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\audio\AudioResource.cpp">
+      <Filter>src\audio</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\audio\AudioSource.cpp">
+      <Filter>src\audio</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\audio\Mixer.cpp">
+      <Filter>src\audio</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\audio\Sample.cpp">
+      <Filter>src\audio</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\audio\Stream.cpp">
+      <Filter>src\audio</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\audio\codec\ADPCM.cpp">
+      <Filter>src\audio\codec</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\audio\codec\RAW.cpp">
+      <Filter>src\audio\codec</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\audio\codec\WAV.cpp">
+      <Filter>src\audio\codec</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\audio\openal\OpenALBackend.cpp">
+      <Filter>src\audio\openal</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\audio\openal\OpenALSource.cpp">
+      <Filter>src\audio\openal</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\audio\openal\OpenALUtils.cpp">
+      <Filter>src\audio\openal</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\core\Application.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\core\ArxGame.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\core\Benchmark.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\core\Config.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\core\Core.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\core\FpsCounter.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\core\GameTime.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\core\SaveGame.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\core\Startup.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\Camera.cpp">
+      <Filter>src\game</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\Damage.cpp">
+      <Filter>src\game</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\Entity.cpp">
+      <Filter>src\game</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\EntityId.cpp">
+      <Filter>src\game</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\EntityManager.cpp">
+      <Filter>src\game</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\Equipment.cpp">
+      <Filter>src\game</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\Inventory.cpp">
+      <Filter>src\game</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\Item.cpp">
+      <Filter>src\game</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\Levels.cpp">
+      <Filter>src\game</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\Missile.cpp">
+      <Filter>src\game</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\NPC.cpp">
+      <Filter>src\game</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\Player.cpp">
+      <Filter>src\game</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\Spells.cpp">
+      <Filter>src\game</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\effect\Quake.cpp">
+      <Filter>src\game\effect</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\effect\ParticleSystems.cpp">
+      <Filter>src\game\effect</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\magic\Precast.cpp">
+      <Filter>src\game\magic</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\magic\Rune.cpp">
+      <Filter>src\game\magic</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\magic\RuneDraw.cpp">
+      <Filter>src\game\magic</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\magic\Spell.cpp">
+      <Filter>src\game\magic</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\magic\SpellData.cpp">
+      <Filter>src\game\magic</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\magic\SpellRecognition.cpp">
+      <Filter>src\game\magic</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\magic\spells\SpellsLvl01.cpp">
+      <Filter>src\game\magic\spells</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\magic\spells\SpellsLvl02.cpp">
+      <Filter>src\game\magic\spells</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\magic\spells\SpellsLvl03.cpp">
+      <Filter>src\game\magic\spells</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\magic\spells\SpellsLvl04.cpp">
+      <Filter>src\game\magic\spells</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\magic\spells\SpellsLvl05.cpp">
+      <Filter>src\game\magic\spells</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\magic\spells\SpellsLvl06.cpp">
+      <Filter>src\game\magic\spells</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\magic\spells\SpellsLvl07.cpp">
+      <Filter>src\game\magic\spells</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\magic\spells\SpellsLvl08.cpp">
+      <Filter>src\game\magic\spells</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\magic\spells\SpellsLvl09.cpp">
+      <Filter>src\game\magic\spells</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\magic\spells\SpellsLvl10.cpp">
+      <Filter>src\game\magic\spells</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\npc\Dismemberment.cpp">
+      <Filter>src\game\npc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\spell\FlyingEye.cpp">
+      <Filter>src\game\spell</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\game\spell\Cheat.cpp">
+      <Filter>src\game\spell</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\Draw.cpp">
+      <Filter>src\graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\DrawLine.cpp">
+      <Filter>src\graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\DrawDebug.cpp">
+      <Filter>src\graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\GlobalFog.cpp">
+      <Filter>src\graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\Math.cpp">
+      <Filter>src\graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\Raycast.cpp">
+      <Filter>src\graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\Renderer.cpp">
+      <Filter>src\graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\RenderBatcher.cpp">
+      <Filter>src\graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\data\FTL.cpp">
+      <Filter>src\graphics\data</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\data\Mesh.cpp">
+      <Filter>src\graphics\data</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\data\MeshManipulation.cpp">
+      <Filter>src\graphics\data</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\data\TextureContainer.cpp">
+      <Filter>src\graphics\data</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\BlobShadow.cpp">
+      <Filter>src\graphics\effects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\Cabal.cpp">
+      <Filter>src\graphics\effects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\Decal.cpp">
+      <Filter>src\graphics\effects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\Fade.cpp">
+      <Filter>src\graphics\effects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\Field.cpp">
+      <Filter>src\graphics\effects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\Fissure.cpp">
+      <Filter>src\graphics\effects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\FloatingStones.cpp">
+      <Filter>src\graphics\effects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\Fog.cpp">
+      <Filter>src\graphics\effects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\SpellEffects.cpp">
+      <Filter>src\graphics\effects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\Halo.cpp">
+      <Filter>src\graphics\effects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\LightFlare.cpp">
+      <Filter>src\graphics\effects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\Lightning.cpp">
+      <Filter>src\graphics\effects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\MagicMissile.cpp">
+      <Filter>src\graphics\effects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\RotatingCone.cpp">
+      <Filter>src\graphics\effects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\Trail.cpp">
+      <Filter>src\graphics\effects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\font\Font.cpp">
+      <Filter>src\graphics\font</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\font\FontCache.cpp">
+      <Filter>src\graphics\font</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\image\Image.cpp">
+      <Filter>src\graphics\image</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\image\ImageColorKey.cpp">
+      <Filter>src\graphics\image</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\image\ImageSave.cpp">
+      <Filter>src\graphics\image</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\image\stb_image.cpp">
+      <Filter>src\graphics\image</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\particle\Particle.cpp">
+      <Filter>src\graphics\particle</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\particle\ParticleEffects.cpp">
+      <Filter>src\graphics\particle</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\particle\ParticleManager.cpp">
+      <Filter>src\graphics\particle</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\particle\ParticleSystem.cpp">
+      <Filter>src\graphics\particle</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\particle\ParticleTextures.cpp">
+      <Filter>src\graphics\particle</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\particle\MagicFlare.cpp">
+      <Filter>src\graphics\particle</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\particle\Spark.cpp">
+      <Filter>src\graphics\particle</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\spells\Spells05.cpp">
+      <Filter>src\graphics\spells</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\texture\PackedTexture.cpp">
+      <Filter>src\graphics\texture</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\texture\Texture.cpp">
+      <Filter>src\graphics\texture</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\texture\TextureStage.cpp">
+      <Filter>src\graphics\texture</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\opengl\GLDebug.cpp">
+      <Filter>src\graphics\opengl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\opengl\GLTexture.cpp">
+      <Filter>src\graphics\opengl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\opengl\GLTextureStage.cpp">
+      <Filter>src\graphics\opengl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\opengl\GLVertexBuffer.cpp">
+      <Filter>src\graphics\opengl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\opengl\OpenGLRenderer.cpp">
+      <Filter>src\graphics\opengl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\graphics\opengl\OpenGLUtil.cpp">
+      <Filter>src\graphics\opengl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\CharacterCreation.cpp">
+      <Filter>src\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\CinematicBorder.cpp">
+      <Filter>src\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\Console.cpp">
+      <Filter>src\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\Credits.cpp">
+      <Filter>src\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\Cursor.cpp">
+      <Filter>src\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\Dragging.cpp">
+      <Filter>src\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\Hud.cpp">
+      <Filter>src\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\Interface.cpp">
+      <Filter>src\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\LoadLevelScreen.cpp">
+      <Filter>src\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\Logo.cpp">
+      <Filter>src\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\MainMenu.cpp">
+      <Filter>src\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\Menu.cpp">
+      <Filter>src\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\MenuPublic.cpp">
+      <Filter>src\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\MenuWidgets.cpp">
+      <Filter>src\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\MiniMap.cpp">
+      <Filter>src\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\Note.cpp">
+      <Filter>src\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\Notification.cpp">
+      <Filter>src\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\Speech.cpp">
+      <Filter>src\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\Text.cpp">
+      <Filter>src\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\TextManager.cpp">
+      <Filter>src\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\book\Book.cpp">
+      <Filter>src\gui\book</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\book\Necklace.cpp">
+      <Filter>src\gui\book</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\debug\DebugHud.cpp">
+      <Filter>src\gui\debug</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\debug\DebugHudAudio.cpp">
+      <Filter>src\gui\debug</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\debug\DebugHudCulling.cpp">
+      <Filter>src\gui\debug</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\debug\DebugKeys.cpp">
+      <Filter>src\gui\debug</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\debug\DebugPanel.cpp">
+      <Filter>src\gui\debug</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\hud\HudCommon.cpp">
+      <Filter>src\gui\hud</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\hud\PlayerInventory.cpp">
+      <Filter>src\gui\hud</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\hud\SecondaryInventory.cpp">
+      <Filter>src\gui\hud</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\menu\MenuCursor.cpp">
+      <Filter>src\gui\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\menu\MenuFader.cpp">
+      <Filter>src\gui\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\menu\MenuPage.cpp">
+      <Filter>src\gui\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\widget\ButtonWidget.cpp">
+      <Filter>src\gui\widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\widget\CheckboxWidget.cpp">
+      <Filter>src\gui\widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\widget\CycleTextWidget.cpp">
+      <Filter>src\gui\widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\widget\KeybindWidget.cpp">
+      <Filter>src\gui\widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\widget\PanelWidget.cpp">
+      <Filter>src\gui\widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\widget\SaveSlotWidget.cpp">
+      <Filter>src\gui\widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\widget\SliderWidget.cpp">
+      <Filter>src\gui\widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\widget\TextInputWidget.cpp">
+      <Filter>src\gui\widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\widget\TextWidget.cpp">
+      <Filter>src\gui\widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\widget\Widget.cpp">
+      <Filter>src\gui\widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\gui\widget\WidgetContainer.cpp">
+      <Filter>src\gui\widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\input\Input.cpp">
+      <Filter>src\input</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\input\TextInput.cpp">
+      <Filter>src\input</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\input\SDL2InputBackend.cpp">
+      <Filter>src\input</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\io\IniWriter.cpp">
+      <Filter>src\io</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\io\Screenshot.cpp">
+      <Filter>src\io</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\io\log\FileLogger.cpp">
+      <Filter>src\io\log</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\io\log\CriticalLogger.cpp">
+      <Filter>src\io\log</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\physics\Attractors.cpp">
+      <Filter>src\physics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\physics\Collisions.cpp">
+      <Filter>src\physics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\physics\CollisionShapes.cpp">
+      <Filter>src\physics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\physics\Projectile.cpp">
+      <Filter>src\physics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\physics\Physics.cpp">
+      <Filter>src\physics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\platform\WindowsMainGUI.cpp">
+      <Filter>src\platform</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\platform\Dialog.cpp">
+      <Filter>src\platform</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\platform\Thread.cpp">
+      <Filter>src\platform</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\platform\CrashHandler.cpp">
+      <Filter>src\platform</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\platform\crashhandler\CrashHandlerImpl.cpp">
+      <Filter>src\platform\crashhandler</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\platform\crashhandler\CrashProcessorImpl.cpp">
+      <Filter>src\platform\crashhandler</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\platform\crashhandler\CrashHandlerWindows.cpp">
+      <Filter>src\platform\crashhandler</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\platform\crashhandler\CrashProcessorWindows.cpp">
+      <Filter>src\platform\crashhandler</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\platform\profiler\Profiler.cpp">
+      <Filter>src\platform\profiler</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\scene\ChangeLevel.cpp">
+      <Filter>src\scene</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\scene\GameSound.cpp">
+      <Filter>src\scene</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\scene\Interactive.cpp">
+      <Filter>src\scene</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\scene\Light.cpp">
+      <Filter>src\scene</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\scene\LinkedObject.cpp">
+      <Filter>src\scene</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\scene\LoadLevel.cpp">
+      <Filter>src\scene</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\scene\Object.cpp">
+      <Filter>src\scene</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\scene\Rooms.cpp">
+      <Filter>src\scene</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\scene\Scene.cpp">
+      <Filter>src\scene</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\scene\Tiles.cpp">
+      <Filter>src\scene</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\script\Script.cpp">
+      <Filter>src\script</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptedAnimation.cpp">
+      <Filter>src\script</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptedCamera.cpp">
+      <Filter>src\script</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptedControl.cpp">
+      <Filter>src\script</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptedConversation.cpp">
+      <Filter>src\script</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptedInterface.cpp">
+      <Filter>src\script</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptedInventory.cpp">
+      <Filter>src\script</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptedIOControl.cpp">
+      <Filter>src\script</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptedIOProperties.cpp">
+      <Filter>src\script</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptedItem.cpp">
+      <Filter>src\script</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptedLang.cpp">
+      <Filter>src\script</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptedNPC.cpp">
+      <Filter>src\script</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptedPlayer.cpp">
+      <Filter>src\script</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptedVariable.cpp">
+      <Filter>src\script</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptEvent.cpp">
+      <Filter>src\script</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptUtils.cpp">
+      <Filter>src\script</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\window\RenderWindow.cpp">
+      <Filter>src\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\window\Window.cpp">
+      <Filter>src\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\window\SDL2Window.cpp">
+      <Filter>src\window</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\ai\Anchors.h">
+      <Filter>src\ai</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\ai\PathFinder.h">
+      <Filter>src\ai</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\ai\PathFinderManager.h">
+      <Filter>src\ai</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\ai\Paths.h">
+      <Filter>src\ai</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\animation\Animation.h">
+      <Filter>src\animation</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\animation\AnimationFormat.h">
+      <Filter>src\animation</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\animation\AnimationRender.h">
+      <Filter>src\animation</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\animation\Skeleton.h">
+      <Filter>src\animation</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\audio\Ambiance.h">
+      <Filter>src\audio</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\audio\Audio.h">
+      <Filter>src\audio</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\audio\AudioBackend.h">
+      <Filter>src\audio</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\audio\AudioEnvironment.h">
+      <Filter>src\audio</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\audio\AudioGlobal.h">
+      <Filter>src\audio</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\audio\AudioResource.h">
+      <Filter>src\audio</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\audio\AudioSource.h">
+      <Filter>src\audio</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\audio\AudioTypes.h">
+      <Filter>src\audio</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\audio\Mixer.h">
+      <Filter>src\audio</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\audio\Sample.h">
+      <Filter>src\audio</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\audio\Stream.h">
+      <Filter>src\audio</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\audio\codec\ADPCM.h">
+      <Filter>src\audio\codec</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\audio\codec\Codec.h">
+      <Filter>src\audio\codec</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\audio\codec\RAW.h">
+      <Filter>src\audio\codec</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\audio\codec\WAV.h">
+      <Filter>src\audio\codec</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\audio\codec\WAVFormat.h">
+      <Filter>src\audio\codec</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\audio\openal\OpenALBackend.h">
+      <Filter>src\audio\openal</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\audio\openal\OpenALSource.h">
+      <Filter>src\audio\openal</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\audio\openal\OpenALUtils.h">
+      <Filter>src\audio\openal</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\cinematic\Cinematic.h">
+      <Filter>src\cinematic</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\cinematic\CinematicController.h">
+      <Filter>src\cinematic</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\cinematic\CinematicEffects.h">
+      <Filter>src\cinematic</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\cinematic\CinematicFormat.h">
+      <Filter>src\cinematic</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\cinematic\CinematicKeyframer.h">
+      <Filter>src\cinematic</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\cinematic\CinematicLoad.h">
+      <Filter>src\cinematic</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\cinematic\CinematicSound.h">
+      <Filter>src\cinematic</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\cinematic\CinematicTexture.h">
+      <Filter>src\cinematic</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\core\Application.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\core\ArxGame.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\core\Benchmark.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\core\Config.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\core\Core.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\core\FpsCounter.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\core\GameTime.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\core\Localisation.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\core\SaveGame.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\core\TimeTypes.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\core\URLConstants.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\core\Version.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\Camera.h">
+      <Filter>src\game</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\Damage.h">
+      <Filter>src\game</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\Entity.h">
+      <Filter>src\game</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\EntityId.h">
+      <Filter>src\game</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\EntityManager.h">
+      <Filter>src\game</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\Equipment.h">
+      <Filter>src\game</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\GameTypes.h">
+      <Filter>src\game</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\Inventory.h">
+      <Filter>src\game</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\Item.h">
+      <Filter>src\game</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\Levels.h">
+      <Filter>src\game</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\Missile.h">
+      <Filter>src\game</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\NPC.h">
+      <Filter>src\game</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\Player.h">
+      <Filter>src\game</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\Spells.h">
+      <Filter>src\game</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\effect\ParticleSystems.h">
+      <Filter>src\game\effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\effect\Quake.h">
+      <Filter>src\game\effect</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\magic\Precast.h">
+      <Filter>src\game\magic</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\magic\Rune.h">
+      <Filter>src\game\magic</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\magic\RuneDraw.h">
+      <Filter>src\game\magic</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\magic\Spell.h">
+      <Filter>src\game\magic</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\magic\SpellData.h">
+      <Filter>src\game\magic</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\magic\SpellRecognition.h">
+      <Filter>src\game\magic</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\magic\spells\SpellsLvl01.h">
+      <Filter>src\game\magic\spells</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\magic\spells\SpellsLvl02.h">
+      <Filter>src\game\magic\spells</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\magic\spells\SpellsLvl03.h">
+      <Filter>src\game\magic\spells</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\magic\spells\SpellsLvl04.h">
+      <Filter>src\game\magic\spells</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\magic\spells\SpellsLvl05.h">
+      <Filter>src\game\magic\spells</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\magic\spells\SpellsLvl06.h">
+      <Filter>src\game\magic\spells</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\magic\spells\SpellsLvl07.h">
+      <Filter>src\game\magic\spells</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\magic\spells\SpellsLvl08.h">
+      <Filter>src\game\magic\spells</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\magic\spells\SpellsLvl09.h">
+      <Filter>src\game\magic\spells</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\magic\spells\SpellsLvl10.h">
+      <Filter>src\game\magic\spells</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\npc\Dismemberment.h">
+      <Filter>src\game\npc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\spell\Cheat.h">
+      <Filter>src\game\spell</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\game\spell\FlyingEye.h">
+      <Filter>src\game\spell</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\BaseGraphicsTypes.h">
+      <Filter>src\graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\Color.h">
+      <Filter>src\graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\Draw.h">
+      <Filter>src\graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\DrawDebug.h">
+      <Filter>src\graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\DrawLine.h">
+      <Filter>src\graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\GlobalFog.h">
+      <Filter>src\graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\GraphicsFormat.h">
+      <Filter>src\graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\GraphicsTypes.h">
+      <Filter>src\graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\Math.h">
+      <Filter>src\graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\Raycast.h">
+      <Filter>src\graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\RenderBatcher.h">
+      <Filter>src\graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\Renderer.h">
+      <Filter>src\graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\Vertex.h">
+      <Filter>src\graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\VertexBuffer.h">
+      <Filter>src\graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\data\FTL.h">
+      <Filter>src\graphics\data</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\data\FTLFormat.h">
+      <Filter>src\graphics\data</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\data\FastSceneFormat.h">
+      <Filter>src\graphics\data</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\data\Mesh.h">
+      <Filter>src\graphics\data</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\data\MeshManipulation.h">
+      <Filter>src\graphics\data</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\data\TextureContainer.h">
+      <Filter>src\graphics\data</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\BlobShadow.h">
+      <Filter>src\graphics\effects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\Cabal.h">
+      <Filter>src\graphics\effects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\Decal.h">
+      <Filter>src\graphics\effects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\Fade.h">
+      <Filter>src\graphics\effects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\Field.h">
+      <Filter>src\graphics\effects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\Fissure.h">
+      <Filter>src\graphics\effects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\FloatingStones.h">
+      <Filter>src\graphics\effects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\Fog.h">
+      <Filter>src\graphics\effects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\Halo.h">
+      <Filter>src\graphics\effects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\LightFlare.h">
+      <Filter>src\graphics\effects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\Lightning.h">
+      <Filter>src\graphics\effects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\MagicMissile.h">
+      <Filter>src\graphics\effects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\RotatingCone.h">
+      <Filter>src\graphics\effects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\SpellEffects.h">
+      <Filter>src\graphics\effects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\effects\Trail.h">
+      <Filter>src\graphics\effects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\font\Font.h">
+      <Filter>src\graphics\font</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\font\FontCache.h">
+      <Filter>src\graphics\font</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\image\Image.h">
+      <Filter>src\graphics\image</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\image\stb_image.h">
+      <Filter>src\graphics\image</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\opengl\GLDebug.h">
+      <Filter>src\graphics\opengl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\opengl\GLTexture.h">
+      <Filter>src\graphics\opengl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\opengl\GLTextureStage.h">
+      <Filter>src\graphics\opengl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\opengl\GLVertexBuffer.h">
+      <Filter>src\graphics\opengl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\opengl\OpenGLRenderer.h">
+      <Filter>src\graphics\opengl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\opengl\OpenGLUtil.h">
+      <Filter>src\graphics\opengl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\particle\MagicFlare.h">
+      <Filter>src\graphics\particle</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\particle\Particle.h">
+      <Filter>src\graphics\particle</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\particle\ParticleEffects.h">
+      <Filter>src\graphics\particle</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\particle\ParticleManager.h">
+      <Filter>src\graphics\particle</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\particle\ParticleParams.h">
+      <Filter>src\graphics\particle</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\particle\ParticleSystem.h">
+      <Filter>src\graphics\particle</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\particle\ParticleTextures.h">
+      <Filter>src\graphics\particle</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\particle\Spark.h">
+      <Filter>src\graphics\particle</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\spells\Spells05.h">
+      <Filter>src\graphics\spells</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\texture\PackedTexture.h">
+      <Filter>src\graphics\texture</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\texture\Texture.h">
+      <Filter>src\graphics\texture</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\graphics\texture\TextureStage.h">
+      <Filter>src\graphics\texture</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\CharacterCreation.h">
+      <Filter>src\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\CinematicBorder.h">
+      <Filter>src\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\Console.h">
+      <Filter>src\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\Credits.h">
+      <Filter>src\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\Cursor.h">
+      <Filter>src\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\Dragging.h">
+      <Filter>src\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\Hud.h">
+      <Filter>src\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\Interface.h">
+      <Filter>src\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\LoadLevelScreen.h">
+      <Filter>src\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\Logo.h">
+      <Filter>src\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\MainMenu.h">
+      <Filter>src\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\Menu.h">
+      <Filter>src\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\MenuPublic.h">
+      <Filter>src\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\MenuWidgets.h">
+      <Filter>src\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\MiniMap.h">
+      <Filter>src\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\Note.h">
+      <Filter>src\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\Notification.h">
+      <Filter>src\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\Speech.h">
+      <Filter>src\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\Text.h">
+      <Filter>src\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\TextManager.h">
+      <Filter>src\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\book\Book.h">
+      <Filter>src\gui\book</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\book\Necklace.h">
+      <Filter>src\gui\book</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\debug\DebugHud.h">
+      <Filter>src\gui\debug</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\debug\DebugHudAudio.h">
+      <Filter>src\gui\debug</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\debug\DebugHudCulling.h">
+      <Filter>src\gui\debug</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\debug\DebugKeys.h">
+      <Filter>src\gui\debug</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\debug\DebugPanel.h">
+      <Filter>src\gui\debug</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\hud\HudCommon.h">
+      <Filter>src\gui\hud</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\hud\PlayerInventory.h">
+      <Filter>src\gui\hud</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\hud\SecondaryInventory.h">
+      <Filter>src\gui\hud</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\menu\MenuCursor.h">
+      <Filter>src\gui\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\menu\MenuFader.h">
+      <Filter>src\gui\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\menu\MenuPage.h">
+      <Filter>src\gui\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\widget\ButtonWidget.h">
+      <Filter>src\gui\widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\widget\CheckboxWidget.h">
+      <Filter>src\gui\widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\widget\CycleTextWidget.h">
+      <Filter>src\gui\widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\widget\KeybindWidget.h">
+      <Filter>src\gui\widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\widget\PanelWidget.h">
+      <Filter>src\gui\widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\widget\SaveSlotWidget.h">
+      <Filter>src\gui\widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\widget\SliderWidget.h">
+      <Filter>src\gui\widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\widget\Spacer.h">
+      <Filter>src\gui\widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\widget\TextInputWidget.h">
+      <Filter>src\gui\widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\widget\TextWidget.h">
+      <Filter>src\gui\widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\widget\Widget.h">
+      <Filter>src\gui\widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\gui\widget\WidgetContainer.h">
+      <Filter>src\gui\widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\input\Input.h">
+      <Filter>src\input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\input\InputBackend.h">
+      <Filter>src\input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\input\InputKey.h">
+      <Filter>src\input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\input\Keyboard.h">
+      <Filter>src\input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\input\Mouse.h">
+      <Filter>src\input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\input\SDL1InputBackend.h">
+      <Filter>src\input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\input\SDL2InputBackend.h">
+      <Filter>src\input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\input\TextInput.h">
+      <Filter>src\input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\io\Blast.h">
+      <Filter>src\io</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\io\IniReader.h">
+      <Filter>src\io</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\io\IniSection.h">
+      <Filter>src\io</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\io\IniWriter.h">
+      <Filter>src\io</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\io\SaveBlock.h">
+      <Filter>src\io</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\io\Screenshot.h">
+      <Filter>src\io</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\io\fs\FilePath.h">
+      <Filter>src\io\fs</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\io\fs\FileStream.h">
+      <Filter>src\io\fs</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\io\fs\Filesystem.h">
+      <Filter>src\io\fs</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\io\fs\SystemPaths.h">
+      <Filter>src\io\fs</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\io\log\ColorLogger.h">
+      <Filter>src\io\log</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\io\log\ConsoleLogger.h">
+      <Filter>src\io\log</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\io\log\CriticalLogger.h">
+      <Filter>src\io\log</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\io\log\FileLogger.h">
+      <Filter>src\io\log</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\io\log\LogBackend.h">
+      <Filter>src\io\log</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\io\log\Logger.h">
+      <Filter>src\io\log</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\io\log\MsvcLogger.h">
+      <Filter>src\io\log</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\io\resource\PakEntry.h">
+      <Filter>src\io\resource</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\io\resource\PakReader.h">
+      <Filter>src\io\resource</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\io\resource\ResourcePath.h">
+      <Filter>src\io\resource</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\io\resource\ResourceSetup.h">
+      <Filter>src\io\resource</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\lib\ArxIO.h">
+      <Filter>src\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\math\Angle.h">
+      <Filter>src\math</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\math\GtxFunctions.h">
+      <Filter>src\math</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\math\Quantizer.h">
+      <Filter>src\math</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\math\Random.h">
+      <Filter>src\math</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\math\RandomFlicker.h">
+      <Filter>src\math</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\math\RandomVector.h">
+      <Filter>src\math</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\math\Rectangle.h">
+      <Filter>src\math</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\math\Types.h">
+      <Filter>src\math</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\math\Vector.h">
+      <Filter>src\math</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\physics\Attractors.h">
+      <Filter>src\physics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\physics\CollisionShapes.h">
+      <Filter>src\physics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\physics\Collisions.h">
+      <Filter>src\physics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\physics\Physics.h">
+      <Filter>src\physics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\physics\Projectile.h">
+      <Filter>src\physics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\platform\Architecture.h">
+      <Filter>src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\platform\Compiler.h">
+      <Filter>src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\platform\CrashHandler.h">
+      <Filter>src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\platform\Dialog.h">
+      <Filter>src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\platform\Endian.h">
+      <Filter>src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\platform\Environment.h">
+      <Filter>src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\platform\OS.h">
+      <Filter>src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\platform\Platform.h">
+      <Filter>src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\platform\Process.h">
+      <Filter>src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\platform\ProgramOptions.h">
+      <Filter>src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\platform\Thread.h">
+      <Filter>src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\platform\Time.h">
+      <Filter>src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\platform\WindowsMain.h">
+      <Filter>src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\platform\WindowsMainCommon.h">
+      <Filter>src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\platform\WindowsUtils.h">
+      <Filter>src\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\platform\crashhandler\CrashHandlerImpl.h">
+      <Filter>src\platform\crashhandler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\platform\crashhandler\CrashHandlerPOSIX.h">
+      <Filter>src\platform\crashhandler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\platform\crashhandler\CrashHandlerWindows.h">
+      <Filter>src\platform\crashhandler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\platform\crashhandler\CrashInfo.h">
+      <Filter>src\platform\crashhandler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\platform\profiler\Profiler.h">
+      <Filter>src\platform\profiler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\platform\profiler\ProfilerDataFormat.h">
+      <Filter>src\platform\profiler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\scene\ChangeLevel.h">
+      <Filter>src\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\scene\GameSound.h">
+      <Filter>src\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\scene\Interactive.h">
+      <Filter>src\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\scene\LevelFormat.h">
+      <Filter>src\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\scene\Light.h">
+      <Filter>src\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\scene\LinkedObject.h">
+      <Filter>src\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\scene\LoadLevel.h">
+      <Filter>src\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\scene\Object.h">
+      <Filter>src\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\scene\Rooms.h">
+      <Filter>src\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\scene\SaveFormat.h">
+      <Filter>src\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\scene\Scene.h">
+      <Filter>src\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\scene\Tiles.h">
+      <Filter>src\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\script\Script.h">
+      <Filter>src\script</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptEvent.h">
+      <Filter>src\script</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptUtils.h">
+      <Filter>src\script</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptedAnimation.h">
+      <Filter>src\script</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptedCamera.h">
+      <Filter>src\script</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptedControl.h">
+      <Filter>src\script</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptedConversation.h">
+      <Filter>src\script</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptedIOControl.h">
+      <Filter>src\script</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptedIOProperties.h">
+      <Filter>src\script</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptedInterface.h">
+      <Filter>src\script</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptedInventory.h">
+      <Filter>src\script</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptedItem.h">
+      <Filter>src\script</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptedLang.h">
+      <Filter>src\script</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptedNPC.h">
+      <Filter>src\script</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptedPlayer.h">
+      <Filter>src\script</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\script\ScriptedVariable.h">
+      <Filter>src\script</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\Cast.h">
+      <Filter>src\util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\Flags.h">
+      <Filter>src\util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\HandleContainer.h">
+      <Filter>src\util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\HandleType.h">
+      <Filter>src\util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\IteratedHash.h">
+      <Filter>src\util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\MD5.h">
+      <Filter>src\util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\Number.h">
+      <Filter>src\util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\Range.h">
+      <Filter>src\util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\String.h">
+      <Filter>src\util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\Unicode.h">
+      <Filter>src\util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\cmdline\CommandLine.h">
+      <Filter>src\util\cmdline</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\cmdline\CommandLineException.h">
+      <Filter>src\util\cmdline</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\cmdline\Ellipsis.h">
+      <Filter>src\util\cmdline</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\cmdline\Interpreter.h">
+      <Filter>src\util\cmdline</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\cmdline\Keys.h">
+      <Filter>src\util\cmdline</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\cmdline\Optional.h">
+      <Filter>src\util\cmdline</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\cmdline\Parser.h">
+      <Filter>src\util\cmdline</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\cmdline\TypeCast.h">
+      <Filter>src\util\cmdline</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\cmdline\detail\ArgsAdapter.h">
+      <Filter>src\util\cmdline\detail</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\cmdline\detail\Construct.h">
+      <Filter>src\util\cmdline\detail</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\cmdline\detail\Interpreter.h">
+      <Filter>src\util\cmdline\detail</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\cmdline\detail\LFunction.h">
+      <Filter>src\util\cmdline\detail</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\cmdline\detail\LexicalCall.h">
+      <Filter>src\util\cmdline\detail</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\cmdline\detail\argsadapter\ArgsAdapterImpl.h">
+      <Filter>src\util\cmdline\detail\argsadapter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\cmdline\detail\argsadapter\ArgsImpl.h">
+      <Filter>src\util\cmdline\detail\argsadapter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\cmdline\detail\argsadapter\Get.h">
+      <Filter>src\util\cmdline\detail\argsadapter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\cmdline\detail\argsadapter\Preprocessed.h">
+      <Filter>src\util\cmdline\detail\argsadapter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\cmdline\detail\argsadapter\TypeImpl.h">
+      <Filter>src\util\cmdline\detail\argsadapter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\cmdline\detail\lfunction\LFNInvoker.h">
+      <Filter>src\util\cmdline\detail\lfunction</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\cmdline\detail\lfunction\MakeLFunctionC.h">
+      <Filter>src\util\cmdline\detail\lfunction</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\cmdline\detail\lfunction\MakeLFunctionOp.h">
+      <Filter>src\util\cmdline\detail\lfunction</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\util\cmdline\detail\lfunction\Preprocessed.h">
+      <Filter>src\util\cmdline\detail\lfunction</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\window\DisplayMode.h">
+      <Filter>src\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\window\RenderWindow.h">
+      <Filter>src\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\window\SDL1Window.h">
+      <Filter>src\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\window\SDL2Window.h">
+      <Filter>src\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\window\SDL2X11Util.h">
+      <Filter>src\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\src\window\Window.h">
+      <Filter>src\window</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\GitHub\Arx-Angle\data\icons\arx-libertatis.ico" />
+    <CustomBuild Include="C:\GitHub\Arx-Angle\arx\src\core\Version.rc.in">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\GitHub\Arx-Angle\arx\src\core\Version.manifest.in">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\GitHub\Arx-Angle\arx\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_common.dir\$(Configuration)\Localisation.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_common.dir\$(Configuration)\IniReader.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_common.dir\$(Configuration)\IniSection.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_common.dir\$(Configuration)\SaveBlock.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_common.dir\$(Configuration)\Angle.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_common.dir\$(Configuration)\Random.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_arxunpak_common.dir\$(Configuration)\PakEntry.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_arxunpak_common.dir\$(Configuration)\PakReader.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_arxunpak_common.dir\$(Configuration)\ResourcePath.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_arxunpak_common.dir\$(Configuration)\ResourceSetup.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_arxunpak_common.dir\$(Configuration)\MD5.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_arxunpak_common.dir\$(Configuration)\Parser.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_arxunpak_common.dir\$(Configuration)\CommandLine.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_arxunpak_common.dir\$(Configuration)\Version.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\ConsoleLogger.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\LogBackend.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\Logger.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\MsvcLogger.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\Blast.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\FilePath.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\FileStream.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\Filesystem.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\SystemPaths.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\FilesystemWindows.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\Environment.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\OS.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\Platform.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\Process.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\ProgramOptions.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\Time.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\WindowsUtils.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\Number.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\String.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\GitHub\Arx-Angle\build_vc16\arx\arx-libertatis-icon.rc">
+      <Filter>C:\GitHub\Arx-Angle\build_vc16\arx</Filter>
+    </ResourceCompile>
+    <ResourceCompile Include="C:\GitHub\Arx-Angle\build_vc16\arx\arx-version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="C:">
+      <UniqueIdentifier>{4D925D6F-30DC-37C4-A4C4-3109E13A78B0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\GitHub">
+      <UniqueIdentifier>{43C40E57-B5B6-33FE-A369-48F7299CC2D0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\GitHub\Arx-Angle">
+      <UniqueIdentifier>{14B84283-5001-3E09-ACD7-2BAA27FD9B1D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\GitHub\Arx-Angle\build_vc16">
+      <UniqueIdentifier>{53A13887-E7C7-3979-A9C0-2980D401E962}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\GitHub\Arx-Angle\build_vc16\arx">
+      <UniqueIdentifier>{865C7DB0-A014-37A1-BE32-C63FBE50FB53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2A0ADF66-E60D-305B-9D6E-DE8FAE6B050E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object Libraries">
+      <UniqueIdentifier>{51FA9564-787D-3D4A-851C-79E02B662CB1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AA6535EC-B311-325C-A0ED-7A5645320035}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{12A6E7BE-3B12-3865-8030-129F62E91449}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\ai">
+      <UniqueIdentifier>{6A475CB3-1637-3A6F-B1A2-B6B8F7B81D44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\animation">
+      <UniqueIdentifier>{C0940323-987F-35B7-9817-964DF4E2B799}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\audio">
+      <UniqueIdentifier>{822700BF-2985-326E-BCC9-9E3400E29F8F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\audio\codec">
+      <UniqueIdentifier>{EF9C7478-1416-3397-8E6C-0F78A3220DAC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\audio\openal">
+      <UniqueIdentifier>{59B43DDE-81F7-3813-8645-4A8B99826263}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\cinematic">
+      <UniqueIdentifier>{D694B4B9-78E9-32D0-A91F-272CA2743E7F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core">
+      <UniqueIdentifier>{506D4704-BF6A-3FBB-8D3D-722F2109796C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\game">
+      <UniqueIdentifier>{5E7CB06F-9FD8-33FF-9DAC-2E4E6D6AB6AD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\game\effect">
+      <UniqueIdentifier>{8820B690-51A9-3935-B501-B614D3804129}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\game\magic">
+      <UniqueIdentifier>{66EFD42F-7490-3F38-B01B-589DE6F7881D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\game\magic\spells">
+      <UniqueIdentifier>{2E5BE47C-7050-3848-B5EF-1D831BCDC204}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\game\npc">
+      <UniqueIdentifier>{8D78A81F-AC74-358C-BAFF-3B3BF75C08A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\game\spell">
+      <UniqueIdentifier>{96E3C438-FB8B-3A96-A046-FE837EF6B80A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\graphics">
+      <UniqueIdentifier>{AC3B7FC0-3D74-365F-AD8A-77E0626B3CE6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\graphics\data">
+      <UniqueIdentifier>{49A19914-4C27-39A1-A309-A5280D99A0BE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\graphics\effects">
+      <UniqueIdentifier>{B15023D6-B445-31D1-860B-8B1784F0103E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\graphics\font">
+      <UniqueIdentifier>{52FDEF55-9D44-3370-BEEF-5A99F384DD77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\graphics\image">
+      <UniqueIdentifier>{FE446E29-29F2-3470-B48F-39B31BC6379C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\graphics\opengl">
+      <UniqueIdentifier>{EBBDD1DD-2554-38DD-8A2B-D48EC017B019}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\graphics\particle">
+      <UniqueIdentifier>{72443C08-1315-3446-A667-33BCBF758E8A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\graphics\spells">
+      <UniqueIdentifier>{13283C3D-0D0B-3348-AB43-BB99BA0198FD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\graphics\texture">
+      <UniqueIdentifier>{1DDFF4DC-7E51-343A-8685-482C52CD7108}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\gui">
+      <UniqueIdentifier>{908BDDEA-B34A-3771-B24F-EF1433DDAC7D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\gui\book">
+      <UniqueIdentifier>{346452FE-199D-3EBD-8230-D16D1D3169C0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\gui\debug">
+      <UniqueIdentifier>{B09496A1-BB0D-3D4E-8C1D-CCC7B02E6913}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\gui\hud">
+      <UniqueIdentifier>{D3B62F97-DFF2-36FB-8AEA-8BFC622DCD36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\gui\menu">
+      <UniqueIdentifier>{77329717-98EF-396D-A3DC-55E5593B7441}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\gui\widget">
+      <UniqueIdentifier>{A0593134-1340-36F9-9714-AA4FD92929E8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\input">
+      <UniqueIdentifier>{0FFFA869-5814-33C8-A82B-81E7D2B545A6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\io">
+      <UniqueIdentifier>{20C4BB71-3B07-39D9-AEA8-55C620019772}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\io\fs">
+      <UniqueIdentifier>{D063820A-8653-373F-9C99-9E71AB5D9183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\io\log">
+      <UniqueIdentifier>{308F7436-890E-3B03-98ED-AC31E507CD7C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\io\resource">
+      <UniqueIdentifier>{FDC4C555-D2DB-36D8-BD5D-C1EFBD00CEDA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lib">
+      <UniqueIdentifier>{B6D8C2D0-44AE-3DBF-ACE0-D9F2B43C4578}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\math">
+      <UniqueIdentifier>{129F48B3-9248-33B2-B4C8-D610B87F7E86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\physics">
+      <UniqueIdentifier>{793DB8D1-CF16-37EE-9C9A-5FB0E4B55FA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\platform">
+      <UniqueIdentifier>{90A6D037-61FC-3A36-B9ED-30CB5958DC18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\platform\crashhandler">
+      <UniqueIdentifier>{0F75F198-A49A-3C72-98EB-4799BA27E8A5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\platform\profiler">
+      <UniqueIdentifier>{5C78C46F-C2BD-3E50-B69C-EC2DED770BB7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\scene">
+      <UniqueIdentifier>{A9CCB077-F9A4-3D46-B179-B39312BFEB83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\script">
+      <UniqueIdentifier>{4D64FA7E-0876-3247-BC4F-809C87B48178}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\util">
+      <UniqueIdentifier>{95A77082-93F2-3CA5-B7D0-052209204CE1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\util\cmdline">
+      <UniqueIdentifier>{7B914408-85E7-3805-B445-0C607A34A0C0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\util\cmdline\detail">
+      <UniqueIdentifier>{DC18F1E0-E624-37A1-83CB-3DF5C5056F7A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\util\cmdline\detail\argsadapter">
+      <UniqueIdentifier>{30D72A58-56DC-3E80-9A4B-B28D1AD62D60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\util\cmdline\detail\lfunction">
+      <UniqueIdentifier>{E55102E3-7294-30C4-BFB3-4441A11275BC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\window">
+      <UniqueIdentifier>{3C174A99-5BA5-3387-B98E-12ACBFFDDE38}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

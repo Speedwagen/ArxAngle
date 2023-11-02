@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\tools\savetool\SaveFix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\tools\savetool\SaveRename.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\tools\savetool\SaveTool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\tools\savetool\SaveView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\tools\savetool\SaveFix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\tools\savetool\SaveRename.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\tools\savetool\SaveTool.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\Arx-Angle\arx\tools\savetool\SaveView.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\GitHub\Arx-Angle\build_vc16\CMakeFiles\abb9c8c9e907eca1004e772027427242\arxsavetool-version.rc.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\GitHub\Arx-Angle\build_vc16\CMakeFiles\abb9c8c9e907eca1004e772027427242\arxsavetool.manifest.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\GitHub\Arx-Angle\arx\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arxsavetool_arxunpak_common.dir\$(Configuration)\WindowsMainConsole.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_common.dir\$(Configuration)\Localisation.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_common.dir\$(Configuration)\IniReader.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_common.dir\$(Configuration)\IniSection.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_common.dir\$(Configuration)\SaveBlock.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_common.dir\$(Configuration)\Angle.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_common.dir\$(Configuration)\Random.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_arxunpak_common.dir\$(Configuration)\PakEntry.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_arxunpak_common.dir\$(Configuration)\PakReader.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_arxunpak_common.dir\$(Configuration)\ResourcePath.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_arxunpak_common.dir\$(Configuration)\ResourceSetup.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_arxunpak_common.dir\$(Configuration)\MD5.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_arxunpak_common.dir\$(Configuration)\Parser.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_arxunpak_common.dir\$(Configuration)\CommandLine.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_arxunpak_common.dir\$(Configuration)\Version.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\ConsoleLogger.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\LogBackend.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\Logger.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\MsvcLogger.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\Blast.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\FilePath.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\FileStream.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\Filesystem.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\SystemPaths.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\FilesystemWindows.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\Environment.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\OS.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\Platform.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\Process.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\ProgramOptions.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\Time.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\WindowsUtils.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\Number.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.dir\$(Configuration)\String.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\GitHub\Arx-Angle\build_vc16\arx\arxsavetool-version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E8ADEEB4-605A-3A86-83D1-B58374622992}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2A0ADF66-E60D-305B-9D6E-DE8FAE6B050E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object Libraries">
+      <UniqueIdentifier>{51FA9564-787D-3D4A-851C-79E02B662CB1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AA6535EC-B311-325C-A0ED-7A5645320035}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

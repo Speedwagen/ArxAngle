@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\GitHub\Arx-Angle\build_vc16\CMakeFiles\a07e45beb307e273fb44465d22a11e40\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\GitHub\Arx-Angle\arx\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\arx</Filter>
+    </None>
+    <None Include="C:\GitHub\Arx-Angle\arx\cmake\BuildSystem.cmake">
+      <Filter>Buildsystem Input Files\arx\cmake</Filter>
+    </None>
+    <None Include="C:\GitHub\Arx-Angle\arx\cmake\BuildType.cmake">
+      <Filter>Buildsystem Input Files\arx\cmake</Filter>
+    </None>
+    <None Include="C:\GitHub\Arx-Angle\arx\cmake\CXXVersionCheck.cmake">
+      <Filter>Buildsystem Input Files\arx\cmake</Filter>
+    </None>
+    <None Include="C:\GitHub\Arx-Angle\arx\cmake\CompileCheck.cmake">
+      <Filter>Buildsystem Input Files\arx\cmake</Filter>
+    </None>
+    <None Include="C:\GitHub\Arx-Angle\arx\cmake\CreateSourceGroups.cmake">
+      <Filter>Buildsystem Input Files\arx\cmake</Filter>
+    </None>
+    <None Include="C:\GitHub\Arx-Angle\arx\cmake\FindDbgHelp.cmake">
+      <Filter>Buildsystem Input Files\arx\cmake</Filter>
+    </None>
+    <None Include="C:\GitHub\Arx-Angle\arx\cmake\FindEpoxy.cmake">
+      <Filter>Buildsystem Input Files\arx\cmake</Filter>
+    </None>
+    <None Include="C:\GitHub\Arx-Angle\arx\cmake\FindGLM.cmake">
+      <Filter>Buildsystem Input Files\arx\cmake</Filter>
+    </None>
+    <None Include="C:\GitHub\Arx-Angle\arx\cmake\FindOpenALEFX.cmake">
+      <Filter>Buildsystem Input Files\arx\cmake</Filter>
+    </None>
+    <None Include="C:\GitHub\Arx-Angle\arx\cmake\FindQt.cmake">
+      <Filter>Buildsystem Input Files\arx\cmake</Filter>
+    </None>
+    <None Include="C:\GitHub\Arx-Angle\arx\cmake\FindSDL2.cmake">
+      <Filter>Buildsystem Input Files\arx\cmake</Filter>
+    </None>
+    <None Include="C:\GitHub\Arx-Angle\arx\cmake\Icons.cmake">
+      <Filter>Buildsystem Input Files\arx\cmake</Filter>
+    </None>
+    <None Include="C:\GitHub\Arx-Angle\arx\cmake\PrintConfiguration.cmake">
+      <Filter>Buildsystem Input Files\arx\cmake</Filter>
+    </None>
+    <None Include="C:\GitHub\Arx-Angle\arx\cmake\StyleCheck.cmake">
+      <Filter>Buildsystem Input Files\arx\cmake</Filter>
+    </None>
+    <None Include="C:\GitHub\Arx-Angle\arx\cmake\UseStaticLibs.cmake">
+      <Filter>Buildsystem Input Files\arx\cmake</Filter>
+    </None>
+    <None Include="C:\GitHub\Arx-Angle\arx\cmake\VersionString.cmake">
+      <Filter>Buildsystem Input Files\arx\cmake</Filter>
+    </None>
+    <None Include="C:\GitHub\Arx-Angle\arx\data\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\arx\data</Filter>
+    </None>
+    <None Include="C:\GitHub\Arx-Angle\arx\src\Configure.h.in">
+      <Filter>Buildsystem Input Files\arx\src</Filter>
+    </None>
+    <None Include="C:\GitHub\Arx-Angle\arx\src\io\fs\PathConstants.h.in">
+      <Filter>Buildsystem Input Files\arx\src\io\fs</Filter>
+    </None>
+    <None Include="C:\GitHub\Arx-Angle\arx\src\platform\PlatformConfig.h.in">
+      <Filter>Buildsystem Input Files\arx\src\platform</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E8ADEEB4-605A-3A86-83D1-B58374622992}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2A0ADF66-E60D-305B-9D6E-DE8FAE6B050E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\arx">
+      <UniqueIdentifier>{B41590F7-1E72-3FAD-9603-130D12A9D8C1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\arx\cmake">
+      <UniqueIdentifier>{930495EF-8019-379C-9F09-49B28814BFAB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\arx\data">
+      <UniqueIdentifier>{C985E9EE-F9D8-3198-BCF6-54BC0563E8F4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\arx\src">
+      <UniqueIdentifier>{D5504410-E994-3FD0-9639-CAF92C786145}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\arx\src\io\fs">
+      <UniqueIdentifier>{172F9735-04CA-3F22-8094-ACC6CED4D4C6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\arx\src\platform">
+      <UniqueIdentifier>{2C37B856-68C8-3D63-A7A9-E2DCCFCF3F43}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

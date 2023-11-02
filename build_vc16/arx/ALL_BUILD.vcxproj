@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ResolveNugetPackages>false</ResolveNugetPackages>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|x64">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|x64">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{B350737F-047C-39D4-959D-63913A13F315}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.20348.0</WindowsTargetPlatformVersion>
+    <Platform>x64</Platform>
+    <ProjectName>ALL_BUILD</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\GitHub\Arx-Angle\arx\src;C:\GitHub\Arx-Angle\build_vc16\arx;C:\GitHub\Arx-Angle\arx\tools;C:\GitHub\Arx-Angle\libs\zlib\include;C:\GitHub\Arx-Angle\libs\freetype\include;C:\GitHub\Arx-Angle\libs\boost\include;C:\GitHub\Arx-Angle\libs\glm\include;C:\GitHub\Arx-Angle\libs\openal\include\AL;C:\GitHub\Arx-Angle\libs\libepoxy\include;C:\GitHub\Arx-Angle\libs\sdl\include;C:\git\Arx-LIbertatis-1.1.2-Remix\libs\dbghelp\include;C:\GitHub\Arx-Angle\arx\thirdparty\fast_float\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\GitHub\Arx-Angle\arx\src;C:\GitHub\Arx-Angle\build_vc16\arx;C:\GitHub\Arx-Angle\arx\tools;C:\GitHub\Arx-Angle\libs\zlib\include;C:\GitHub\Arx-Angle\libs\freetype\include;C:\GitHub\Arx-Angle\libs\boost\include;C:\GitHub\Arx-Angle\libs\glm\include;C:\GitHub\Arx-Angle\libs\openal\include\AL;C:\GitHub\Arx-Angle\libs\libepoxy\include;C:\GitHub\Arx-Angle\libs\sdl\include;C:\git\Arx-LIbertatis-1.1.2-Remix\libs\dbghelp\include;C:\GitHub\Arx-Angle\arx\thirdparty\fast_float\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\GitHub\Arx-Angle\arx\src;C:\GitHub\Arx-Angle\build_vc16\arx;C:\GitHub\Arx-Angle\arx\tools;C:\GitHub\Arx-Angle\libs\zlib\include;C:\GitHub\Arx-Angle\libs\freetype\include;C:\GitHub\Arx-Angle\libs\boost\include;C:\GitHub\Arx-Angle\libs\glm\include;C:\GitHub\Arx-Angle\libs\openal\include\AL;C:\GitHub\Arx-Angle\libs\libepoxy\include;C:\GitHub\Arx-Angle\libs\sdl\include;C:\git\Arx-LIbertatis-1.1.2-Remix\libs\dbghelp\include;C:\GitHub\Arx-Angle\arx\thirdparty\fast_float\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\GitHub\Arx-Angle\arx\src;C:\GitHub\Arx-Angle\build_vc16\arx;C:\GitHub\Arx-Angle\arx\tools;C:\GitHub\Arx-Angle\libs\zlib\include;C:\GitHub\Arx-Angle\libs\freetype\include;C:\GitHub\Arx-Angle\libs\boost\include;C:\GitHub\Arx-Angle\libs\glm\include;C:\GitHub\Arx-Angle\libs\openal\include\AL;C:\GitHub\Arx-Angle\libs\libepoxy\include;C:\GitHub\Arx-Angle\libs\sdl\include;C:\git\Arx-LIbertatis-1.1.2-Remix\libs\dbghelp\include;C:\GitHub\Arx-Angle\arx\thirdparty\fast_float\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\GitHub\Arx-Angle\arx\CMakeLists.txt">
+      <UseUtf8Encoding>Always</UseUtf8Encoding>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/GitHub/Arx-Angle/arx/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+C:\CMake\bin\cmake.exe -SC:/GitHub/Arx-Angle -BC:/GitHub/Arx-Angle/build_vc16 --check-stamp-file C:/GitHub/Arx-Angle/build_vc16/arx/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\CMake\share\cmake-3.27\Modules\CheckCSourceCompiles.cmake;C:\CMake\share\cmake-3.27\Modules\CheckCXXSourceCompiles.cmake;C:\CMake\share\cmake-3.27\Modules\CheckIncludeFile.cmake;C:\CMake\share\cmake-3.27\Modules\CheckIncludeFileCXX.cmake;C:\CMake\share\cmake-3.27\Modules\CheckIncludeFiles.cmake;C:\CMake\share\cmake-3.27\Modules\CheckLibraryExists.cmake;C:\CMake\share\cmake-3.27\Modules\CheckSymbolExists.cmake;C:\CMake\share\cmake-3.27\Modules\CheckTypeSize.cmake;C:\CMake\share\cmake-3.27\Modules\FindBoost.cmake;C:\CMake\share\cmake-3.27\Modules\FindFreetype.cmake;C:\CMake\share\cmake-3.27\Modules\FindOpenAL.cmake;C:\CMake\share\cmake-3.27\Modules\FindPackageHandleStandardArgs.cmake;C:\CMake\share\cmake-3.27\Modules\FindPackageMessage.cmake;C:\CMake\share\cmake-3.27\Modules\FindPkgConfig.cmake;C:\CMake\share\cmake-3.27\Modules\FindPython.cmake;C:\CMake\share\cmake-3.27\Modules\FindPython\Support.cmake;C:\CMake\share\cmake-3.27\Modules\FindThreads.cmake;C:\CMake\share\cmake-3.27\Modules\FindZLIB.cmake;C:\CMake\share\cmake-3.27\Modules\GNUInstallDirs.cmake;C:\CMake\share\cmake-3.27\Modules\Internal\CheckSourceCompiles.cmake;C:\CMake\share\cmake-3.27\Modules\SelectLibraryConfigurations.cmake;C:\GitHub\Arx-Angle\arx\cmake\BuildSystem.cmake;C:\GitHub\Arx-Angle\arx\cmake\BuildType.cmake;C:\GitHub\Arx-Angle\arx\cmake\CXXVersionCheck.cmake;C:\GitHub\Arx-Angle\arx\cmake\CompileCheck.cmake;C:\GitHub\Arx-Angle\arx\cmake\CreateSourceGroups.cmake;C:\GitHub\Arx-Angle\arx\cmake\FindDbgHelp.cmake;C:\GitHub\Arx-Angle\arx\cmake\FindEpoxy.cmake;C:\GitHub\Arx-Angle\arx\cmake\FindGLM.cmake;C:\GitHub\Arx-Angle\arx\cmake\FindOpenALEFX.cmake;C:\GitHub\Arx-Angle\arx\cmake\FindQt.cmake;C:\GitHub\Arx-Angle\arx\cmake\FindSDL2.cmake;C:\GitHub\Arx-Angle\arx\cmake\Icons.cmake;C:\GitHub\Arx-Angle\arx\cmake\PrintConfiguration.cmake;C:\GitHub\Arx-Angle\arx\cmake\StyleCheck.cmake;C:\GitHub\Arx-Angle\arx\cmake\UseStaticLibs.cmake;C:\GitHub\Arx-Angle\arx\cmake\VersionString.cmake;C:\GitHub\Arx-Angle\arx\data\CMakeLists.txt;C:\GitHub\Arx-Angle\arx\src\Configure.h.in;C:\GitHub\Arx-Angle\arx\src\io\fs\PathConstants.h.in;C:\GitHub\Arx-Angle\arx\src\platform\PlatformConfig.h.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\GitHub\Arx-Angle\build_vc16\arx\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/GitHub/Arx-Angle/arx/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+C:\CMake\bin\cmake.exe -SC:/GitHub/Arx-Angle -BC:/GitHub/Arx-Angle/build_vc16 --check-stamp-file C:/GitHub/Arx-Angle/build_vc16/arx/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\CMake\share\cmake-3.27\Modules\CheckCSourceCompiles.cmake;C:\CMake\share\cmake-3.27\Modules\CheckCXXSourceCompiles.cmake;C:\CMake\share\cmake-3.27\Modules\CheckIncludeFile.cmake;C:\CMake\share\cmake-3.27\Modules\CheckIncludeFileCXX.cmake;C:\CMake\share\cmake-3.27\Modules\CheckIncludeFiles.cmake;C:\CMake\share\cmake-3.27\Modules\CheckLibraryExists.cmake;C:\CMake\share\cmake-3.27\Modules\CheckSymbolExists.cmake;C:\CMake\share\cmake-3.27\Modules\CheckTypeSize.cmake;C:\CMake\share\cmake-3.27\Modules\FindBoost.cmake;C:\CMake\share\cmake-3.27\Modules\FindFreetype.cmake;C:\CMake\share\cmake-3.27\Modules\FindOpenAL.cmake;C:\CMake\share\cmake-3.27\Modules\FindPackageHandleStandardArgs.cmake;C:\CMake\share\cmake-3.27\Modules\FindPackageMessage.cmake;C:\CMake\share\cmake-3.27\Modules\FindPkgConfig.cmake;C:\CMake\share\cmake-3.27\Modules\FindPython.cmake;C:\CMake\share\cmake-3.27\Modules\FindPython\Support.cmake;C:\CMake\share\cmake-3.27\Modules\FindThreads.cmake;C:\CMake\share\cmake-3.27\Modules\FindZLIB.cmake;C:\CMake\share\cmake-3.27\Modules\GNUInstallDirs.cmake;C:\CMake\share\cmake-3.27\Modules\Internal\CheckSourceCompiles.cmake;C:\CMake\share\cmake-3.27\Modules\SelectLibraryConfigurations.cmake;C:\GitHub\Arx-Angle\arx\cmake\BuildSystem.cmake;C:\GitHub\Arx-Angle\arx\cmake\BuildType.cmake;C:\GitHub\Arx-Angle\arx\cmake\CXXVersionCheck.cmake;C:\GitHub\Arx-Angle\arx\cmake\CompileCheck.cmake;C:\GitHub\Arx-Angle\arx\cmake\CreateSourceGroups.cmake;C:\GitHub\Arx-Angle\arx\cmake\FindDbgHelp.cmake;C:\GitHub\Arx-Angle\arx\cmake\FindEpoxy.cmake;C:\GitHub\Arx-Angle\arx\cmake\FindGLM.cmake;C:\GitHub\Arx-Angle\arx\cmake\FindOpenALEFX.cmake;C:\GitHub\Arx-Angle\arx\cmake\FindQt.cmake;C:\GitHub\Arx-Angle\arx\cmake\FindSDL2.cmake;C:\GitHub\Arx-Angle\arx\cmake\Icons.cmake;C:\GitHub\Arx-Angle\arx\cmake\PrintConfiguration.cmake;C:\GitHub\Arx-Angle\arx\cmake\StyleCheck.cmake;C:\GitHub\Arx-Angle\arx\cmake\UseStaticLibs.cmake;C:\GitHub\Arx-Angle\arx\cmake\VersionString.cmake;C:\GitHub\Arx-Angle\arx\data\CMakeLists.txt;C:\GitHub\Arx-Angle\arx\src\Configure.h.in;C:\GitHub\Arx-Angle\arx\src\io\fs\PathConstants.h.in;C:\GitHub\Arx-Angle\arx\src\platform\PlatformConfig.h.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\GitHub\Arx-Angle\build_vc16\arx\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule C:/GitHub/Arx-Angle/arx/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
+C:\CMake\bin\cmake.exe -SC:/GitHub/Arx-Angle -BC:/GitHub/Arx-Angle/build_vc16 --check-stamp-file C:/GitHub/Arx-Angle/build_vc16/arx/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\CMake\share\cmake-3.27\Modules\CheckCSourceCompiles.cmake;C:\CMake\share\cmake-3.27\Modules\CheckCXXSourceCompiles.cmake;C:\CMake\share\cmake-3.27\Modules\CheckIncludeFile.cmake;C:\CMake\share\cmake-3.27\Modules\CheckIncludeFileCXX.cmake;C:\CMake\share\cmake-3.27\Modules\CheckIncludeFiles.cmake;C:\CMake\share\cmake-3.27\Modules\CheckLibraryExists.cmake;C:\CMake\share\cmake-3.27\Modules\CheckSymbolExists.cmake;C:\CMake\share\cmake-3.27\Modules\CheckTypeSize.cmake;C:\CMake\share\cmake-3.27\Modules\FindBoost.cmake;C:\CMake\share\cmake-3.27\Modules\FindFreetype.cmake;C:\CMake\share\cmake-3.27\Modules\FindOpenAL.cmake;C:\CMake\share\cmake-3.27\Modules\FindPackageHandleStandardArgs.cmake;C:\CMake\share\cmake-3.27\Modules\FindPackageMessage.cmake;C:\CMake\share\cmake-3.27\Modules\FindPkgConfig.cmake;C:\CMake\share\cmake-3.27\Modules\FindPython.cmake;C:\CMake\share\cmake-3.27\Modules\FindPython\Support.cmake;C:\CMake\share\cmake-3.27\Modules\FindThreads.cmake;C:\CMake\share\cmake-3.27\Modules\FindZLIB.cmake;C:\CMake\share\cmake-3.27\Modules\GNUInstallDirs.cmake;C:\CMake\share\cmake-3.27\Modules\Internal\CheckSourceCompiles.cmake;C:\CMake\share\cmake-3.27\Modules\SelectLibraryConfigurations.cmake;C:\GitHub\Arx-Angle\arx\cmake\BuildSystem.cmake;C:\GitHub\Arx-Angle\arx\cmake\BuildType.cmake;C:\GitHub\Arx-Angle\arx\cmake\CXXVersionCheck.cmake;C:\GitHub\Arx-Angle\arx\cmake\CompileCheck.cmake;C:\GitHub\Arx-Angle\arx\cmake\CreateSourceGroups.cmake;C:\GitHub\Arx-Angle\arx\cmake\FindDbgHelp.cmake;C:\GitHub\Arx-Angle\arx\cmake\FindEpoxy.cmake;C:\GitHub\Arx-Angle\arx\cmake\FindGLM.cmake;C:\GitHub\Arx-Angle\arx\cmake\FindOpenALEFX.cmake;C:\GitHub\Arx-Angle\arx\cmake\FindQt.cmake;C:\GitHub\Arx-Angle\arx\cmake\FindSDL2.cmake;C:\GitHub\Arx-Angle\arx\cmake\Icons.cmake;C:\GitHub\Arx-Angle\arx\cmake\PrintConfiguration.cmake;C:\GitHub\Arx-Angle\arx\cmake\StyleCheck.cmake;C:\GitHub\Arx-Angle\arx\cmake\UseStaticLibs.cmake;C:\GitHub\Arx-Angle\arx\cmake\VersionString.cmake;C:\GitHub\Arx-Angle\arx\data\CMakeLists.txt;C:\GitHub\Arx-Angle\arx\src\Configure.h.in;C:\GitHub\Arx-Angle\arx\src\io\fs\PathConstants.h.in;C:\GitHub\Arx-Angle\arx\src\platform\PlatformConfig.h.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\GitHub\Arx-Angle\build_vc16\arx\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule C:/GitHub/Arx-Angle/arx/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
+C:\CMake\bin\cmake.exe -SC:/GitHub/Arx-Angle -BC:/GitHub/Arx-Angle/build_vc16 --check-stamp-file C:/GitHub/Arx-Angle/build_vc16/arx/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\CMake\share\cmake-3.27\Modules\CheckCSourceCompiles.cmake;C:\CMake\share\cmake-3.27\Modules\CheckCXXSourceCompiles.cmake;C:\CMake\share\cmake-3.27\Modules\CheckIncludeFile.cmake;C:\CMake\share\cmake-3.27\Modules\CheckIncludeFileCXX.cmake;C:\CMake\share\cmake-3.27\Modules\CheckIncludeFiles.cmake;C:\CMake\share\cmake-3.27\Modules\CheckLibraryExists.cmake;C:\CMake\share\cmake-3.27\Modules\CheckSymbolExists.cmake;C:\CMake\share\cmake-3.27\Modules\CheckTypeSize.cmake;C:\CMake\share\cmake-3.27\Modules\FindBoost.cmake;C:\CMake\share\cmake-3.27\Modules\FindFreetype.cmake;C:\CMake\share\cmake-3.27\Modules\FindOpenAL.cmake;C:\CMake\share\cmake-3.27\Modules\FindPackageHandleStandardArgs.cmake;C:\CMake\share\cmake-3.27\Modules\FindPackageMessage.cmake;C:\CMake\share\cmake-3.27\Modules\FindPkgConfig.cmake;C:\CMake\share\cmake-3.27\Modules\FindPython.cmake;C:\CMake\share\cmake-3.27\Modules\FindPython\Support.cmake;C:\CMake\share\cmake-3.27\Modules\FindThreads.cmake;C:\CMake\share\cmake-3.27\Modules\FindZLIB.cmake;C:\CMake\share\cmake-3.27\Modules\GNUInstallDirs.cmake;C:\CMake\share\cmake-3.27\Modules\Internal\CheckSourceCompiles.cmake;C:\CMake\share\cmake-3.27\Modules\SelectLibraryConfigurations.cmake;C:\GitHub\Arx-Angle\arx\cmake\BuildSystem.cmake;C:\GitHub\Arx-Angle\arx\cmake\BuildType.cmake;C:\GitHub\Arx-Angle\arx\cmake\CXXVersionCheck.cmake;C:\GitHub\Arx-Angle\arx\cmake\CompileCheck.cmake;C:\GitHub\Arx-Angle\arx\cmake\CreateSourceGroups.cmake;C:\GitHub\Arx-Angle\arx\cmake\FindDbgHelp.cmake;C:\GitHub\Arx-Angle\arx\cmake\FindEpoxy.cmake;C:\GitHub\Arx-Angle\arx\cmake\FindGLM.cmake;C:\GitHub\Arx-Angle\arx\cmake\FindOpenALEFX.cmake;C:\GitHub\Arx-Angle\arx\cmake\FindQt.cmake;C:\GitHub\Arx-Angle\arx\cmake\FindSDL2.cmake;C:\GitHub\Arx-Angle\arx\cmake\Icons.cmake;C:\GitHub\Arx-Angle\arx\cmake\PrintConfiguration.cmake;C:\GitHub\Arx-Angle\arx\cmake\StyleCheck.cmake;C:\GitHub\Arx-Angle\arx\cmake\UseStaticLibs.cmake;C:\GitHub\Arx-Angle\arx\cmake\VersionString.cmake;C:\GitHub\Arx-Angle\arx\data\CMakeLists.txt;C:\GitHub\Arx-Angle\arx\src\Configure.h.in;C:\GitHub\Arx-Angle\arx\src\io\fs\PathConstants.h.in;C:\GitHub\Arx-Angle\arx\src\platform\PlatformConfig.h.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\GitHub\Arx-Angle\build_vc16\arx\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="C:\GitHub\Arx-Angle\build_vc16\ZERO_CHECK.vcxproj">
+      <Project>{5375E39A-3352-3330-88A7-DDE3163C4C30}</Project>
+      <Name>ZERO_CHECK</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="C:\GitHub\Arx-Angle\build_vc16\arx\ArxIO.vcxproj">
+      <Project>{845FCDD9-90AF-3C2B-8675-5202CD9F7FD8}</Project>
+      <Name>ArxIO</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_arxunpak_common.vcxproj">
+      <Project>{B2CE8FD5-422E-3E42-8FA9-853A5B12757C}</Project>
+      <Name>_arx_arxsavetool_arxunpak_common</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arx_arxsavetool_common.vcxproj">
+      <Project>{EC236D30-3971-3645-8862-9F4C1020AC23}</Project>
+      <Name>_arx_arxsavetool_common</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="C:\GitHub\Arx-Angle\build_vc16\arx\_arxsavetool_arxunpak_common.vcxproj">
+      <Project>{760B8B6C-64C7-3E1F-A73B-1D81DB655251}</Project>
+      <Name>_arxsavetool_arxunpak_common</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="C:\GitHub\Arx-Angle\build_vc16\arx\arx.vcxproj">
+      <Project>{49918D6B-A224-399D-AA70-C67986F984D2}</Project>
+      <Name>arx</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\GitHub\Arx-Angle\build_vc16\arx\arx-libertatis-icon.vcxproj">
+      <Project>{31DD3176-61AE-3A64-98B3-205DB2CE283F}</Project>
+      <Name>arx-libertatis-icon</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="C:\GitHub\Arx-Angle\build_vc16\arx\arxsavetool.vcxproj">
+      <Project>{410AF419-F9FA-3430-8152-0D6D22128AFA}</Project>
+      <Name>arxsavetool</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\GitHub\Arx-Angle\build_vc16\arx\arxunpak.vcxproj">
+      <Project>{25C09B48-53DA-38AF-B219-339445BFCA05}</Project>
+      <Name>arxunpak</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\GitHub\Arx-Angle\build_vc16\arx\common.vcxproj">
+      <Project>{17E70059-0EA0-32DA-A55E-6B97319E0287}</Project>
+      <Name>common</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

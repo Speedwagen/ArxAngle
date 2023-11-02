@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\GitHub\Arx-Angle\arx\src\core\Version.cpp.in">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\GitHub\Arx-Angle\build_vc16\CMakeFiles\1637858e45ab9d6660759621e20a90a4\generate_arx_core_Version_cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\GitHub\Arx-Angle\arx\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\GitHub\Arx-Angle\build_vc16\arx\CMakeFiles\generate_arx_core_Version_cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E8ADEEB4-605A-3A86-83D1-B58374622992}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2A0ADF66-E60D-305B-9D6E-DE8FAE6B050E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

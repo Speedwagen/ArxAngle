@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\core\Localisation.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\io\IniReader.cpp">
+      <Filter>src\io</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\io\IniSection.cpp">
+      <Filter>src\io</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\io\SaveBlock.cpp">
+      <Filter>src\io</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\math\Angle.cpp">
+      <Filter>src\math</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\math\Random.cpp">
+      <Filter>src\math</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\GitHub\Arx-Angle\arx\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{12A6E7BE-3B12-3865-8030-129F62E91449}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core">
+      <UniqueIdentifier>{506D4704-BF6A-3FBB-8D3D-722F2109796C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\io">
+      <UniqueIdentifier>{20C4BB71-3B07-39D9-AEA8-55C620019772}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\math">
+      <UniqueIdentifier>{129F48B3-9248-33B2-B4C8-D610B87F7E86}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

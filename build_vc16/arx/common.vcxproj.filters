@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\io\log\ConsoleLogger.cpp">
+      <Filter>src\io\log</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\io\log\LogBackend.cpp">
+      <Filter>src\io\log</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\io\log\Logger.cpp">
+      <Filter>src\io\log</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\io\log\MsvcLogger.cpp">
+      <Filter>src\io\log</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\io\Blast.cpp">
+      <Filter>src\io</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\io\fs\FilePath.cpp">
+      <Filter>src\io\fs</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\io\fs\FileStream.cpp">
+      <Filter>src\io\fs</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\io\fs\Filesystem.cpp">
+      <Filter>src\io\fs</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\io\fs\SystemPaths.cpp">
+      <Filter>src\io\fs</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\io\fs\FilesystemWindows.cpp">
+      <Filter>src\io\fs</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\platform\Environment.cpp">
+      <Filter>src\platform</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\platform\OS.cpp">
+      <Filter>src\platform</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\platform\Platform.cpp">
+      <Filter>src\platform</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\platform\Process.cpp">
+      <Filter>src\platform</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\platform\ProgramOptions.cpp">
+      <Filter>src\platform</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\platform\Time.cpp">
+      <Filter>src\platform</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\platform\WindowsUtils.cpp">
+      <Filter>src\platform</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\util\Number.cpp">
+      <Filter>src\util</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\util\String.cpp">
+      <Filter>src\util</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\GitHub\Arx-Angle\arx\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{12A6E7BE-3B12-3865-8030-129F62E91449}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\io">
+      <UniqueIdentifier>{20C4BB71-3B07-39D9-AEA8-55C620019772}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\io\fs">
+      <UniqueIdentifier>{D063820A-8653-373F-9C99-9E71AB5D9183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\io\log">
+      <UniqueIdentifier>{308F7436-890E-3B03-98ED-AC31E507CD7C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\platform">
+      <UniqueIdentifier>{90A6D037-61FC-3A36-B9ED-30CB5958DC18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\util">
+      <UniqueIdentifier>{95A77082-93F2-3CA5-B7D0-052209204CE1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\GitHub\Arx-Angle\data\icons\arx-libertatis.ico" />
+    <CustomBuild Include="C:\GitHub\Arx-Angle\arx\src\core\Version.rc.in">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\GitHub\Arx-Angle\arx\src\core\Version.manifest.in">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\GitHub\Arx-Angle\build_vc16\CMakeFiles\abb9c8c9e907eca1004e772027427242\arxsavetool-version.rc.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\GitHub\Arx-Angle\build_vc16\CMakeFiles\abb9c8c9e907eca1004e772027427242\arxsavetool.manifest.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\GitHub\Arx-Angle\build_vc16\CMakeFiles\abb9c8c9e907eca1004e772027427242\arxunpak-version.rc.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\GitHub\Arx-Angle\build_vc16\CMakeFiles\abb9c8c9e907eca1004e772027427242\arxunpak.manifest.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\GitHub\Arx-Angle\arx\src\core\Version.cpp.in">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\GitHub\Arx-Angle\build_vc16\CMakeFiles\1637858e45ab9d6660759621e20a90a4\style.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\GitHub\Arx-Angle\arx\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\GitHub\Arx-Angle\build_vc16\arx\CMakeFiles\style" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E8ADEEB4-605A-3A86-83D1-B58374622992}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2A0ADF66-E60D-305B-9D6E-DE8FAE6B050E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\io\resource\PakEntry.cpp">
+      <Filter>src\io\resource</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\io\resource\PakReader.cpp">
+      <Filter>src\io\resource</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\io\resource\ResourcePath.cpp">
+      <Filter>src\io\resource</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\io\resource\ResourceSetup.cpp">
+      <Filter>src\io\resource</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\util\MD5.cpp">
+      <Filter>src\util</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\util\cmdline\Parser.cpp">
+      <Filter>src\util\cmdline</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\arx\src\util\cmdline\CommandLine.cpp">
+      <Filter>src\util\cmdline</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Arx-Angle\build_vc16\arx\core\Version.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\GitHub\Arx-Angle\arx\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2A0ADF66-E60D-305B-9D6E-DE8FAE6B050E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AA6535EC-B311-325C-A0ED-7A5645320035}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{12A6E7BE-3B12-3865-8030-129F62E91449}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\io">
+      <UniqueIdentifier>{20C4BB71-3B07-39D9-AEA8-55C620019772}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\io\resource">
+      <UniqueIdentifier>{FDC4C555-D2DB-36D8-BD5D-C1EFBD00CEDA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\util">
+      <UniqueIdentifier>{95A77082-93F2-3CA5-B7D0-052209204CE1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\util\cmdline">
+      <UniqueIdentifier>{7B914408-85E7-3805-B445-0C607A34A0C0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
